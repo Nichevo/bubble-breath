@@ -9,3 +9,5 @@ An original, modern take on the classic bubble-blowing dragon arcade game. Play 
 - On phones: on-screen Move, Jump and Blow buttons; tap the screen to start
 
 Trap enemies in bubbles, then pop them to turn them into fruit. Pop several at once for bigger points.
+
+Made with Claude Code.
